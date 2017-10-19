@@ -1,5 +1,12 @@
 # Laravel-Talk
 
+###b489059 이현식
+###b489052 이원영
+
+개선사항은  더 알아볼 예정입니다.
+
+
+
 [![Awesome Laravel](https://img.shields.io/badge/Awesome-Laravel-brightgreen.svg)](https://github.com/nahid/talk)
 [![GitHub license](https://img.shields.io/badge/license-CC0-blue.svg)](https://raw.githubusercontent.com/nahid/talk/master/LICENSE)
 [![Build Status](https://travis-ci.org/nahid/talk.svg?branch=master)](https://travis-ci.org/nahid/talk)
